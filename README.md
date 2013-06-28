@@ -29,7 +29,10 @@ Steps to join:
 * 提交 PR
 * 确定 PR 是成功的
 
+没懂？请看详细的=》[戳这里](https://gist.github.com/suziewong/4378619)
+
 Contributors, 参与者
 ------
 
 * [JiyinYiyong](https://github.com/jiyinyiyong)
+* [SuzieWong](http://www.imsuzie.com)
