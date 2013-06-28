@@ -29,7 +29,15 @@ Steps to join:
 * 提交 PR
 * 确定 PR 是成功的
 
-没懂？请看详细的=》[戳这里](https://gist.github.com/suziewong/4378619)
+导航
+
+1.[How to use Github？](https://gist.github.com/suziewong/4378619)
+2.[Git的常规操作](https://gist.github.com/suziewong/4378729)
+3.[Git的多账号如何处理?](https://gist.github.com/suziewong/4378434)
+4.[How to use Gitlab?](https://gist.github.com/suziewong/4378780)
+
+
+
 
 Contributors, 参与者
 ------
