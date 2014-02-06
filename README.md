@@ -30,10 +30,12 @@ Steps to join:
 
 导航
 
-1. [How to use Github？](https://gist.github.com/suziewong/4378619)
+1. [How to use Github？](https://gist.github.com/suziewong/4378619) 
 2. [Git的常规操作](https://gist.github.com/suziewong/4378729)
 3. [Git的多账号如何处理?](https://gist.github.com/suziewong/4378434)
 4. [How to use Gitlab?](https://gist.github.com/suziewong/4378780)
+
+5. [Windows 下 Git 使用教程](https://github.com/ZJUT/hello-github/wiki/Windows-%E4%B8%8B-Git-%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
 
 
 
