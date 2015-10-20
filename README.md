@@ -34,16 +34,19 @@ Steps to join:
 2. [Git的常规操作](https://gist.github.com/suziewong/4378729)
 3. [Git的多账号如何处理?](https://gist.github.com/suziewong/4378434)
 4. [How to use Gitlab?](https://gist.github.com/suziewong/4378780)
-
 5. [Windows 下 Git 使用教程](https://github.com/ZJUT/hello-github/wiki/Windows-%E4%B8%8B-Git-%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
+6. [Git Documentation](https://git-scm.com/book/zh/v2)
+7. [Markdown tutorial](http://markdowntutorial.com/ "Markdown Tutorial")
+8. [Gitignore.io](https://www.gitignore.io/)
 
 
 
 
 Contributors, 参与者
-------
+---- 
 
 * [JiyinYiyong](https://github.com/jiyinyiyong)
 * [SuzieWong](http://www.imsuzie.com)
 * [Rugal](http://rugal.ml)
 * [Westion](http://blog.westion.tk)
+* [Weichnn](github.com/weichnn)
